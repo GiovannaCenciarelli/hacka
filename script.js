@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
   const textoElement = document.querySelector('.texto-lateral p');
   
   // Texto para o efeito de digitação
-  const textoDigitacao = "Sinta a sensação de transformar cada\num dos seus objetivos em conquistas";
+  const textoDigitacao = "Sinta a sensação de transformar cada\num dos seus objetivos em conquistas.";
   
   // 1. Configuração inicial - Esconde elementos
   logo.style.opacity = '0';
